@@ -13,6 +13,12 @@ public class EmployeeDetails {
 			
 			System.out.println("Employee Mobile : 8939278836");
 		}
+		
+		private void employeeCompany() {
+			
+			System.out.println("Greens");
+		}
+		
 		//               main method
 		public static void main(String[] args) {
 			
